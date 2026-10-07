@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi I'm Arnav 👋
+
+I came to AI through law and policy, and now I'm training as a forward-deployed engineer at Echos while studying finance and economics at Tulane as an Altman Scholar.
+
+**Currently:** learning Palantir Foundry, building applied AI projects, and looking for Summer 2028 Application/Deployment internships.
+
+**Tech:** Python · PostgreSQL · Palantir Foundry
+
+📫 [LinkedIn](https://linkedin.com/in/arnavlogani) · alogani@tulane.edu
+
+
 
 <!--
 **arnavlogani/arnavlogani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
