@@ -1,6 +1,6 @@
 # Hi I'm Arnav 👋
 
-I came to AI through law and policy, and now I'm training as a forward-deployed engineer at Echos while studying finance and economics at Tulane as an Altman Scholar.
+I have a passion for turning ambiguous, real-world problems into Data & AI solutions.
 
 **Currently:** learning Palantir Foundry, building applied AI projects, and looking for Summer 2028 Application/Deployment internships.
 
