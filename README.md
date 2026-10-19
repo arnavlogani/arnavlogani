@@ -2,7 +2,7 @@
 
 I have a passion for turning ambiguous, real-world problems into Data & AI solutions.
 
-**Currently:** learning Palantir Foundry, building applied AI projects, and looking for Summer 2028 Application/Deployment internships.
+**Currently:** learning Palantir Foundry, building applied AI projects, and looking for Summer 2027 Application/Deployment internships.
 
 **Tech:** Python · PostgreSQL · Palantir Foundry
 
