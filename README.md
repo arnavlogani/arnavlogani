@@ -4,7 +4,7 @@ I have a passion for turning ambiguous, real-world problems into Data & AI solut
 
 **Currently:** learning Palantir Foundry, building applied AI projects, and looking for Summer 2027 Application/Deployment internships.
 
-**Tech:** Python · PostgreSQL · Palantir Foundry
+**Tech:** Python · SQL · Palantir Foundry
 
 📫 [LinkedIn](https://linkedin.com/in/arnavlogani) · alogani@tulane.edu
 
